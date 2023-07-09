@@ -5,7 +5,7 @@
 ### Acer Predator Webcam Mount
 
 In order to mound my webcam on the top of my monitor without covering part it and creating a notch, I created a custom webcam mount.  
-It uses a ball mount like a tripod to have fill flexibility.  
+It uses a ball mount, like a tripod, to have full flexibility.  
 
 Required parts:  
 - 3D printed part, [GitHub](prints/acer-predator-webcam-mount) or [Printables](https://www.printables.com/model/523723-acer-predator-webcam-mount)
