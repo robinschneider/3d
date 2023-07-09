@@ -26,7 +26,7 @@ This power supply mount works with power supplies for Dell WD19 and similar.
 ![](images/prints/dell-wd19tb/mount-02.png)
 
 Required parts:
-- 3D printed part, [GitHub](prints/dell-wd19) or [Printables](https://www.printables.com/model/523818-dell-wd19-power-supply-mount)
+- 3D printed part (twice), [GitHub](prints/dell-wd19) or [Printables](https://www.printables.com/model/523818-dell-wd19-power-supply-mount)
 - 4 screws, I used 3.5 x 20 mm screws
 
 
@@ -38,5 +38,6 @@ The handle of our old hose trolley broke, so I replaced it.
 ![](images/prints/hose-trolley/handle-02.png)
 
 Required parts:
-- 3D printed part, [GitHub](prints/hose-trolley) or [Printables](https://www.printables.com/model/523851-hose-trolley-handle)
+- 3D printed parts, [GitHub](prints/hose-trolley) or [Printables](https://www.printables.com/model/523851-hose-trolley-handle)
 - 2 screws, I used 4 x 15 mm screws
+- 20 mm wood rod
