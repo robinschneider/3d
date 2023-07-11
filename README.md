@@ -41,3 +41,15 @@ Required parts:
 - 3D printed parts, [GitHub](prints/hose-trolley) or [Printables](https://www.printables.com/model/523851-hose-trolley-handle)
 - 2 screws, I used 4 x 15 mm screws
 - 20 mm wood rod
+
+
+### LED Tube
+
+For my Govee LED Strip I created a couple of custom wall mounts to stick the silicon led tube in shape to my wall.
+
+![](images/prints/led-strip/led-tube-curve-60-01.png)
+
+Available:
+- 60 Degree curve
+
+You can get it on [GitHub](prints/led-strip) or [Printables](https://www.printables.com/model/525407-govee-led-strip-60-degree-curve). Feel free to post a Make there as well.
