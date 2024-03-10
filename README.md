@@ -53,3 +53,15 @@ Available:
 - 60 Degree curve
 
 You can get it on [GitHub](prints/led-strip) or [Printables](https://www.printables.com/model/525407-govee-led-strip-60-degree-curve). Feel free to post a Make there as well.
+
+
+### Happy Birthday
+
+Happy birthday lettering for birthday presents.  
+Print it upside down to have the texture of the print plate on top.
+
+Remixed from [PYC3D.ES on Printables](https://www.printables.com/model/276472-cake-topper-happy-birthday), no commercial use allowed.
+
+![](images/prints/happy-birthday/happy-birthday.png)
+
+You can get it on [GitHub](prints/happy-birthday), [Printables](https://www.printables.com/model/726528-happy-birthday) or [Makerworld](https://makerworld.com/en/models/243911). Feel free to post a Make there as well. 
